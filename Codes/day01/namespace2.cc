@@ -27,6 +27,8 @@ using namespace wd;
 void test0() {
     display();
     cout << "wd::number = " << number << endl;
+    cout << "wd::dim::number = " << wd::dlm::number << endl;
+    wd::dlm::display();
 }
 
 int main(void) {
