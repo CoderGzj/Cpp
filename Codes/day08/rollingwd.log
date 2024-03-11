@@ -1,7 +1,3 @@
-2024-03-09 18:57:58,263 [register] [FATAL] this is an emerge message
-2024-03-09 18:57:58,263 [register] [ALERT] this is an alert message
-2024-03-09 18:57:58,263 [register] [CRIT] this is an crit message
-2024-03-09 18:57:58,263 [register] [DEBUG] xxxx
 2024-03-11 22:47:06,403 [register] [FATAL] this is an emerge message
 2024-03-11 22:47:06,403 [register] [ALERT] this is an alert message
 2024-03-11 22:47:06,404 [register] [CRIT] this is an crit message
